@@ -1,0 +1,7 @@
+customerid,account_balance,transaction_amount,reported_amount,currency,country,transaction_date,risk_score
+1001,15000,500,500,USD,US,2025-02-25,3
+1001,32000,1200,1200,EUR,DE,2025-02-20,2
+1002,5000,-100,100,USD,US,2025-02-24,1
+1003,25000,30000,30500,GBP,GB,2025-02-23,8
+1004,1000,2000,2000,USD,US,2025-02-22,4
+1005,50000,26000,26000,USD,CA,2025-02-21,6 
