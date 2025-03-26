@@ -1,3 +1,0 @@
-"""
-Regulatory Compliance Assistant Package
-"""
